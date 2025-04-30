@@ -1,3 +1,6 @@
+library(scales)
+library(ggplot2)
+
 ggplot() +
   # tile
   geom_tile(
